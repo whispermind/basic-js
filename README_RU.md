@@ -261,7 +261,7 @@ NB! Имя члена команды может содержать **пробе�
 
 `directMachine.decrypt('AEIHQX SX DLLU!', 'alphonse') => 'ATTACK AT DAWN!'`
 
-`reverseMachine.encrypt('attack at dawn!', 'alphonse') => '!ULLD XS XQHIEA'`
+`reverseMachine.encrypt('attack at dawn!', 'alphonse') => '!ULLD XS XQH IEA'`
 
 `reverseMachine.decrypt('AEIHQX SX DLLU!', 'alphonse') => '!NWAD TA KCATTA'`
 
